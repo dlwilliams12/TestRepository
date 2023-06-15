@@ -15,3 +15,5 @@ class Solution:
     
 summe = Solution([2,7,11,15], 9)
 print(summe.twoSum())
+
+#[Approach - Brute Force, Complexity - , Runtime - ]
